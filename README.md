@@ -14,6 +14,12 @@ Once the project has been cloned run the following in your project terminal:
 ```
 composer install
 ```
+
+To view the project in local host, run the following in the terminal:
+
+```
+symfony server:start
+```
 ## Technologies & Frameworks 🚇
 
 1. Symfony 4.
